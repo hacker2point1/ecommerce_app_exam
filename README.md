@@ -5,13 +5,25 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+for next js application:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+```
+Packeges need to be installed:
+        "@emotion/react": "^11.14.0",
+        "@emotion/styled": "^11.14.1",
+        "@mui/material": "^7.3.8",
+        "@reduxjs/toolkit": "^2.11.2",
+        "axios": "^1.13.5",
+        "react-redux": "^9.2.0"
+
+NOTE: Package version may varry.
+```
+
+```
+For design :
+Custom CSS
+MUI
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
