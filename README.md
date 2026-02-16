@@ -18,7 +18,6 @@ Packeges need to be installed:
         "axios": "^1.13.5",
         "react-redux": "^9.2.0"
 
-NOTE: Package version may updated.
 ```
 
 ```
