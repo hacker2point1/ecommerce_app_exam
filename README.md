@@ -1,11 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+```
+Steps to start the project in local:
 
-First, run the development server:
-
-```bash
-for next js application:
+Clone the project using Git Bash.
+Open folder in VS code 
+npm i 
 npm run dev
 ```
 ```
@@ -17,7 +18,7 @@ Packeges need to be installed:
         "axios": "^1.13.5",
         "react-redux": "^9.2.0"
 
-NOTE: Package version may varry.
+NOTE: Package version may updated.
 ```
 
 ```
